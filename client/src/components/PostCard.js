@@ -65,8 +65,4 @@ export default function PostCard({
       </div>
     </div>
   );
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> c82321179e65709366f161d549741dddbbfe9ff6
