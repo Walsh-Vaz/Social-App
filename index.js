@@ -18,7 +18,7 @@ const server = new ApolloServer({
 });
 
 mongoose
-  .connect("mongodb://localhost:27017/thoughts", {
+  .connect("mongodb+srv://olusogabolaji:IGyS6jVyb9sRpWyJ@cluster0.pgw3kgz.mongodb.net/thoughts", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
