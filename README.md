@@ -73,13 +73,3 @@ Acknowledgments
 We would like to express our gratitude to the open-source community for providing valuable tools and resources that made the development of SocialApp possible.
 
 Thank you for using SocialApp! Happy networking!
-
-Please note that the placeholders in square brackets [GitHub Repo URL] need to be replaced with the actual repository URL, and any other specific details required to complete the Read Me. Additionally, ensure that the correct contact information and support channels are provided in the Read Me to aid users and contributors in getting assistance when needed.
-
-
-
-
-
-
-Regenerate response
-
